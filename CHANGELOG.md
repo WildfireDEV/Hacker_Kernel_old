@@ -1,5 +1,13 @@
 # Change Log
 
+## [Unreleased](https://github.com/HRTKernel/Hacker_Kernel_SM-G92X_MM/tree/HEAD)
+
+[Full Changelog](https://github.com/HRTKernel/Hacker_Kernel_SM-G92X_MM/compare/V13...HEAD)
+
+**Merged pull requests:**
+
+- Fix Dirty COW \(CVE-2016-5195\) / a privilege escalation vulnerability [\#3](https://github.com/HRTKernel/Hacker_Kernel_SM-G92X_MM/pull/3) ([emphazer](https://github.com/emphazer))
+
 ## [V13](https://github.com/HRTKernel/Hacker_Kernel_SM-G92X_MM/tree/V13) (2016-02-29)
 [Full Changelog](https://github.com/HRTKernel/Hacker_Kernel_SM-G92X_MM/compare/V13_B1...V13)
 
